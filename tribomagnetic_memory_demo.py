@@ -1,7 +1,7 @@
 #READ THIS!!
 # You'll need to install VPython: pip install vpython
 # Then run from VS Code: python tribomagnetic_memory_demo.py
-# This will open a tab in your browser with the visualization.
+# This will open a tab thats in your browser with the visualization.
 
 from vpython import *
 import numpy as np
