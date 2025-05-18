@@ -1,4 +1,4 @@
-# Save this as tribomagnetic_memory_demo.py
+#READ THIS!!
 # You'll need to install VPython: pip install vpython
 # Then run from VS Code: python tribomagnetic_memory_demo.py
 # This will open a tab in your browser with the visualization.
@@ -7,8 +7,8 @@ from vpython import *
 import numpy as np
 import random
 
-# --- Simulation Parameters (Inspired by your Research) ---
-FILM_WIDTH = 200e-9  # meters (e.g., 200 nm wide strip for visualization)
+# --- Simulation Parameters ---
+FILM_WIDTH = 200e-9  # meters (ex. 200 nm wide strip for visualization)
 FILM_LENGTH = 1000e-9 # meters (1 um long)
 FILM_THICKNESS = 30e-9 # CoFeB film thickness
 SUBSTRATE_THICKNESS = 50e-9
